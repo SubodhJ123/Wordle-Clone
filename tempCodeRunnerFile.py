@@ -1,0 +1,1 @@
+p.count(word_list)
